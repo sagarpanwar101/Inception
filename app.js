@@ -24,7 +24,7 @@ const container = React.createElement(
         id: "container",
     },
     [heading, heading1]
-);
+); 
 
 // create root using createRoot
 const root = ReactDOM.createRoot(document.getElementById("root"));
